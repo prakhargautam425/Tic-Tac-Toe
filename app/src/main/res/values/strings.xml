@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="headline">Tic Tac Toe</string>
+
+    <string name="send_message">send</string>
+
+    <string name="send_message3">delete</string>
+    <string name="Start_text">Tap anywhere to start</string>
+    <string name="Playerturn">X\'s player turn</string>
+    <string name="Reset">Reset</string>
+    <string name="Reset_Text">Reset</string>
+
+
+
+
+</resources>
