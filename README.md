@@ -43,23 +43,7 @@ This project demonstrates core Android UI components, user interaction, and basi
 
 ---
 
-## 📂 Project Structure
 
-Tic-Tac-Toe/
-│
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/ # Java source files
-│ │ │ ├── res/
-│ │ │ │ ├── layout/ # XML layouts
-│ │ │ │ ├── drawable/
-│ │ │ │ ├── raw/ # Music & sound effects
-│ │ │ │ └── values/
-│
-├── build.gradle.kts
-├── settings.gradle.kts
-└── README.md
 
 👤 Author
 
