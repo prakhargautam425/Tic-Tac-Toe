@@ -47,8 +47,8 @@ This project demonstrates core Android UI components, user interaction, and basi
 
 👤 Author
 
-Prakhar Gautam
-Computer Science Engineering Graduate
+Prakhar Gautam.
+Computer Science Engineering Graduate.
 📌 Android App Development | Java | DSA
 
 ⭐ If you like this project
